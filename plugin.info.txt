@@ -1,0 +1,7 @@
+base   entitiesbutton
+author Anna Dabrowska
+email  dokuwiki@cosmocode.de
+date   2021-04-07
+name   entitiesbutton plugin
+desc   Add entities button to DokuWiki editor
+url    https://www.dokuwiki.org/plugin:entitiesbutton
